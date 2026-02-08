@@ -34,7 +34,6 @@ Trabajo principalmente con **HTML, CSS y JavaScript**, he desarrollado proyectos
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma)
 
 ---
