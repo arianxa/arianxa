@@ -1,58 +1,67 @@
-## 👋 Hi, I'm Arantxa
+## 👋 Hola, soy Arantxa
 
-Frontend Developer focused on building clean, accessible and user-friendly interfaces.
+Frontend Developer 💻 enfocada en crear interfaces limpias, accesibles y funcionales, con base en desarrollo web y lógica backend.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](TU_LINK)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
-
----
-
-## 🚀 About Me
-
-Frontend developer with experience building responsive web applications.
-I care deeply about **UX, clean code and performance**.
-Currently focused on modern frontend stacks and design systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arantxa-ordoyo/)
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Sobre mí
 
-### Languages
+Soy desarrolladora full stack con experiencia creando páginas web y aplicaciones interactivas, cuidando tanto la **experiencia de usuario** como la **estructura del código**.
+
+Trabajo principalmente con **HTML, CSS y JavaScript**, he desarrollado proyectos con **React**, y tengo conocimientos de backend y datos que me permiten entender aplicaciones completas de principio a fin.
+
+---
+
+## 🛠 Lenguajes y tecnologías
+
+### Lenguajes
+![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003b57?style=for-the-badge)
 
-### Frameworks & Libraries
+### Frameworks & Librerías
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
 
-### Tools
+### APIs & Datos
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-ff6600?style=for-the-badge)
+
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma)
 
 ---
 
-## 🎯 What I'm Working On
+## 🚀 Proyectos destacados
 
-- ⚡ Frontend architecture & scalability
-- 🎨 Design systems & UI consistency
-- ♿ Accessibility & performance
-- 🌱 Continuous learning
+### 🔹 WebProyecto
+Página web desarrollada con **HTML, CSS y PHP**, con estructura clara y separación de lógica y estilos.
 
----
+### 🔹 Paginawebjuegodelucharetro
+Aplicación web sobre juegos de lucha retro con **base de datos SQL**, gestión de datos y contenido dinámico.
 
-## 💡 Core Skills
-
-- Component-driven development
-- Responsive design
-- State management
-- API integration
-- UX-focused development
+### 🔹 RetroFight-Guide
+Guía interactiva creada con **React**, enfocada en mostrar información de juegos de lucha clásicos de forma clara y visual.
 
 ---
 
-## 🤝 Let's Connect
+## 🔭 En lo que estoy trabajando
 
-I'm always open to new opportunities and collaborations.
+- ⚡ Aplicaciones frontend con React
+- 🎨 Mejora de UI/UX y maquetación
+- 🔌 Consumo de APIs REST
+- 📊 Integración con bases de datos y backend
 
-⭐ From Arantxa
+---
+
+## 📈 Estadísticas de GitHub
+
+![Arantxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arianxa&show_icons=true&hide_title=true)
+
