@@ -47,21 +47,29 @@ Trabajo principalmente con **HTML, CSS y JavaScript**, he desarrollado proyectos
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Portfolio Personal](https://mi-primer-react-git-main-arantxa-ordoyos-projects.vercel.app/)
+### 🔹 [Portfolio Personal](https://mi-primer-react-git-main-arantxa-ordoyos-projects.vercel.app/) · [GitHub](https://github.com/arianxa/mi-primer-react)
 Portfolio desarrollado con **React + Vite + Tailwind CSS**, con animaciones mediante Framer Motion y formulario de contacto funcional con EmailJS.
 `React` `Vite` `Tailwind CSS` `Framer Motion` `EmailJS`
 
-### 🔹 [RetroFight-Guide](https://github.com/arianxa/RetroFight-Guide)
-Guía interactiva creada con **React**, enfocada en mostrar información de juegos de lucha clásicos de forma clara y visual.
-`React` `JavaScript`
+### 🔹 [API Simpson](https://api-simpson.vercel.app/) · [GitHub](https://github.com/4GeeksAcademy/fs-pt-127-API-Simpson-Arantxa-Ordoyo)
+Explorador dinámico de personajes con consumo de API REST y filtrado en tiempo real.
+`React` `Vite` `Bootstrap`
 
-### 🔹 [Paginawebjuegodelucharetro](https://github.com/arianxa/Paginawebjuegodelucharetro)
-Aplicación web sobre juegos de lucha retro con **base de datos SQL**, gestión de datos y contenido dinámico.
+### 🔹 [City Planner](https://cityplanner.page.gd/index.php) · [GitHub](https://github.com/arianxa/CityPlanner)
+Plataforma fullstack para la búsqueda y gestión de eventos culturales y musicales en la ciudad.
 `PHP` `SQL` `HTML` `CSS`
 
-### 🔹 [WebProyecto](https://github.com/arianxa/WebProyecto)
-Página web desarrollada con **HTML, CSS y PHP**, con estructura clara y separación de lógica y estilos.
-`HTML` `CSS` `PHP`
+### 🔹 [Retro Games](https://juego-de-lucha.vercel.app/) · [GitHub](https://github.com/arianxa/RetroFight-Guide)
+Guía interactiva y catálogo de juegos arcade clásicos con panel de administración CRUD.
+`PHP` `SQL` `HTML` `CSS`
+
+### 🔹 [Sant Cugat API](https://github.com/arianxa/Municipal-Sports-API)
+API REST en C# con ASP.NET Core para gestionar el ecosistema deportivo municipal con autenticación JWT.
+`C#` `ASP.NET` `Entity Framework`
+
+### 🔹 [Olor A Libro Android](https://github.com/arianxa/OlorALibro-App)
+App Android para conectar usuarios con la red de bibliotecas municipales con gamificación y notificaciones push.
+`Java` `Android Studio` `XML`
 
 ---
 
