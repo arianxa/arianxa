@@ -47,6 +47,10 @@ Trabajo principalmente con **HTML, CSS y JavaScript**, he desarrollado proyectos
 
 ## 🚀 Proyectos destacados
 
+### 🔹 [Playback](https://sample-service-name-89mg.onrender.com/) · [GitHub](https://github.com/arianxa/PlayBack)
+Marketplace full-stack de productos retro con tres roles: cliente, vendedor y administrador. E-commerce completo con carrito, pagos con Stripe, gestión de stock, reseñas, favoritos y notificaciones por email. Autenticación JWT y OAuth 2.0, modo oscuro/claro, internacionalización ES/EN y desplegado en Render.
+`React` `Flask` `Python` `PostgreSQL` `JWT` `Stripe` `Cloudinary` `Tailwind`
+
 ### 🔹 [Portfolio Personal](https://mi-primer-react-git-main-arantxa-ordoyos-projects.vercel.app/) · [GitHub](https://github.com/arianxa/mi-primer-react)
 Portfolio desarrollado con **React + Vite + Tailwind CSS**, con animaciones mediante Framer Motion y formulario de contacto funcional con EmailJS.
 `React` `Vite` `Tailwind CSS` `Framer Motion` `EmailJS`
@@ -75,6 +79,7 @@ App Android para conectar usuarios con la red de bibliotecas municipales con gam
 
 ## 🔭 En lo que estoy trabajando
 
+- 🛒 Mejoras en Playback (marketplace fullstack)
 - ⚡ Aplicaciones frontend con React
 - 🎨 Mejora de UI/UX y maquetación
 - 🔌 Consumo de APIs REST
