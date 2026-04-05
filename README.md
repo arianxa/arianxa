@@ -91,4 +91,4 @@ App Android para conectar usuarios con la red de bibliotecas municipales con gam
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arianxa&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arianxa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arianxa&layout=compact&theme=tokyonight&hide_border=true)
