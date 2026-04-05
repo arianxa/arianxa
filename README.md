@@ -89,5 +89,6 @@ App Android para conectar usuarios con la red de bibliotecas municipales con gam
 
 ## 📈 Estadísticas de GitHub
 
-![Arantxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arianxa&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arianxa&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=arianxa&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arianxa&layout=compact&theme=tokyonight&hide_border=true)
